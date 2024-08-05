@@ -1,8 +1,8 @@
 ## Curso de programación
 
-*Nombre de la persona*
+*Javier Callejas Cardozo*
 
-**Universidad Externado de Colombia**
+**Universidad EAN**
 
 En esta págia el profesor revisará toda la documentación que vaya reando para los proyectos que generaré en el curso. 
 Adicionalmente, compartire la información y los códigos que cree con mis compañeros para ayudarnos en este arduo camino que iniciamos.
